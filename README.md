@@ -18,15 +18,15 @@ List of Programs:
 (vi)Sequence Diagram
 # DIAGRAMS:
 USE CASE DIAGRAM
-![alt text](UseCaseDiagram1.jpg)
+![alt text](Usecase.png)
 CLASS DIAGRAM
-![alt text](ClassDiagram1.jpg)
+![alt text](Class.png)
 ACTIVITY DIAGRAM
-![alt text](ActivityDiagram1.jpg)
+![alt text](Activity.png)
 COMMUNICATION DIAGRAM
-![alt text](CommunicationDiagram1.jpg)
+![alt text](Communication.png)
 PACKAGE DIAGRAM
-![alt text](PackageDiagram1.jpg)
+![alt text](Package.png)
 SEQUENCE DIAGRAM
 ![alt text](SequenceDiagram.png)
 # RESULT:
